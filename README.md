@@ -23,12 +23,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0027-remove-element) |
+| [2128-reverse-prefix-of-word](https://github.com/yadavpramod03270/dsa-prep/tree/master/2128-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2128-reverse-prefix-of-word](https://github.com/yadavpramod03270/dsa-prep/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2128-reverse-prefix-of-word](https://github.com/yadavpramod03270/dsa-prep/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
