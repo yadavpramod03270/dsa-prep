@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/yadavpramod03270/dsa-prep/tree/master/0316-remove-duplicate-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/yadavpramod03270/dsa-prep/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/yadavpramod03270/dsa-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yadavpramod03270/dsa-prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/yadavpramod03270/dsa-prep/tree/master/0225-implement-stack-using-queues) |
+| [0316-remove-duplicate-letters](https://github.com/yadavpramod03270/dsa-prep/tree/master/0316-remove-duplicate-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/yadavpramod03270/dsa-prep/tree/master/2128-reverse-prefix-of-word) |
 ## Tree
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yadavpramod03270/dsa-prep/tree/master/0225-implement-stack-using-queues) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/yadavpramod03270/dsa-prep/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/yadavpramod03270/dsa-prep/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
