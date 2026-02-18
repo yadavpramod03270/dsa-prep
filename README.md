@@ -129,15 +129,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yadavpramod03270/dsa-prep/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/yadavpramod03270/dsa-prep/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/yadavpramod03270/dsa-prep/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yadavpramod03270/dsa-prep/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/yadavpramod03270/dsa-prep/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/yadavpramod03270/dsa-prep/tree/master/2427-number-of-common-factors) |
 ## Enumeration
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/yadavpramod03270/dsa-prep/tree/master/2427-number-of-common-factors) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yadavpramod03270/dsa-prep/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
