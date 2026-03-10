@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/yadavpramod03270/dsa-prep/tree/master/0692-top-k-frequent-words) |
 | [0792-binary-search](https://github.com/yadavpramod03270/dsa-prep/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/yadavpramod03270/dsa-prep/tree/master/0837-most-common-word) |
+| [1046-last-stone-weight](https://github.com/yadavpramod03270/dsa-prep/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/yadavpramod03270/dsa-prep/tree/master/1127-last-stone-weight) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Hash Table
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/yadavpramod03270/dsa-prep/tree/master/0692-top-k-frequent-words) |
+| [1046-last-stone-weight](https://github.com/yadavpramod03270/dsa-prep/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/yadavpramod03270/dsa-prep/tree/master/1127-last-stone-weight) |
 ## Counting
 |  |
