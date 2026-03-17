@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/yadavpramod03270/dsa-prep/tree/master/1127-last-stone-weight) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yadavpramod03270/dsa-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3731-find-missing-elements](https://github.com/yadavpramod03270/dsa-prep/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/yadavpramod03270/dsa-prep/tree/master/0837-most-common-word) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yadavpramod03270/dsa-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3731-find-missing-elements](https://github.com/yadavpramod03270/dsa-prep/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/yadavpramod03270/dsa-prep/tree/master/0692-top-k-frequent-words) |
+| [3731-find-missing-elements](https://github.com/yadavpramod03270/dsa-prep/tree/master/3731-find-missing-elements) |
 ## Bucket Sort
 |  |
 | ------- |
