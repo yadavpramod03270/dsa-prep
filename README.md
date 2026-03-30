@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/yadavpramod03270/dsa-prep/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/yadavpramod03270/dsa-prep/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/yadavpramod03270/dsa-prep/tree/master/0013-roman-to-integer) |
 | [0316-remove-duplicate-letters](https://github.com/yadavpramod03270/dsa-prep/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/yadavpramod03270/dsa-prep/tree/master/0692-top-k-frequent-words) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/yadavpramod03270/dsa-prep/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/yadavpramod03270/dsa-prep/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/yadavpramod03270/dsa-prep/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/yadavpramod03270/dsa-prep/tree/master/2427-number-of-common-factors) |
