@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yadavpramod03270/dsa-prep/tree/master/0035-search-insert-position) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/yadavpramod03270/dsa-prep/tree/master/0692-top-k-frequent-words) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yadavpramod03270/dsa-prep/tree/master/0035-search-insert-position) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/yadavpramod03270/dsa-prep/tree/master/0792-binary-search) |
 ## Two Pointers
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/yadavpramod03270/dsa-prep/tree/master/0206-reverse-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
