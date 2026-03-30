@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/yadavpramod03270/dsa-prep/tree/master/0692-top-k-frequent-words) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/yadavpramod03270/dsa-prep/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/yadavpramod03270/dsa-prep/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/yadavpramod03270/dsa-prep/tree/master/0837-most-common-word) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0229-majority-element-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/yadavpramod03270/dsa-prep/tree/master/0692-top-k-frequent-words) |
 | [3731-find-missing-elements](https://github.com/yadavpramod03270/dsa-prep/tree/master/3731-find-missing-elements) |
 ## Bucket Sort
