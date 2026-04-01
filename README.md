@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/yadavpramod03270/dsa-prep/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/yadavpramod03270/dsa-prep/tree/master/1127-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yadavpramod03270/dsa-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3731-find-missing-elements](https://github.com/yadavpramod03270/dsa-prep/tree/master/3731-find-missing-elements) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/yadavpramod03270/dsa-prep/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/yadavpramod03270/dsa-prep/tree/master/1127-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/yadavpramod03270/dsa-prep/tree/master/0692-top-k-frequent-words) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/yadavpramod03270/dsa-prep/tree/master/3731-find-missing-elements) |
 ## Bucket Sort
 |  |
