@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/yadavpramod03270/dsa-prep/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/yadavpramod03270/dsa-prep/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0509-fibonacci-number) |
 | [2413-smallest-even-multiple](https://github.com/yadavpramod03270/dsa-prep/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/yadavpramod03270/dsa-prep/tree/master/2427-number-of-common-factors) |
 ## Number Theory
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/yadavpramod03270/dsa-prep/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -243,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yadavpramod03270/dsa-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yadavpramod03270/dsa-prep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
