@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0540-single-element-in-a-sorted-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yadavpramod03270/dsa-prep/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/yadavpramod03270/dsa-prep/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/yadavpramod03270/dsa-prep/tree/master/0792-binary-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/yadavpramod03270/dsa-prep/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/yadavpramod03270/dsa-prep/tree/master/0908-middle-of-the-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/yadavpramod03270/dsa-prep/tree/master/2128-reverse-prefix-of-word) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/yadavpramod03270/dsa-prep/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0287-find-the-duplicate-number) |
 ## Breadth-First Search
 |  |
 | ------- |
