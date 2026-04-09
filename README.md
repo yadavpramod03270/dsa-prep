@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/yadavpramod03270/dsa-prep/tree/master/0141-linked-list-cycle) |
+| [0344-reverse-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/yadavpramod03270/dsa-prep/tree/master/0908-middle-of-the-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/yadavpramod03270/dsa-prep/tree/master/2128-reverse-prefix-of-word) |
 ## String
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/yadavpramod03270/dsa-prep/tree/master/0013-roman-to-integer) |
 | [0316-remove-duplicate-letters](https://github.com/yadavpramod03270/dsa-prep/tree/master/0316-remove-duplicate-letters) |
+| [0344-reverse-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/yadavpramod03270/dsa-prep/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/yadavpramod03270/dsa-prep/tree/master/0837-most-common-word) |
