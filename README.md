@@ -13,6 +13,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0035-search-insert-position](https://github.com/yadavpramod03270/dsa-prep/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yadavpramod03270/dsa-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yadavpramod03270/dsa-prep/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/yadavpramod03270/dsa-prep/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0268-missing-number) |
