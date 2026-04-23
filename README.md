@@ -195,6 +195,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yadavpramod03270/dsa-prep/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/yadavpramod03270/dsa-prep/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yadavpramod03270/dsa-prep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/yadavpramod03270/dsa-prep/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/yadavpramod03270/dsa-prep/tree/master/0206-reverse-linked-list) |
