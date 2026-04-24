@@ -48,6 +48,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0692-top-k-frequent-words](https://github.com/yadavpramod03270/dsa-prep/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/yadavpramod03270/dsa-prep/tree/master/0837-most-common-word) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/yadavpramod03270/dsa-prep/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yadavpramod03270/dsa-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3731-find-missing-elements](https://github.com/yadavpramod03270/dsa-prep/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -87,6 +88,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0837-most-common-word](https://github.com/yadavpramod03270/dsa-prep/tree/master/0837-most-common-word) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yadavpramod03270/dsa-prep/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/yadavpramod03270/dsa-prep/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/yadavpramod03270/dsa-prep/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
 |  |
