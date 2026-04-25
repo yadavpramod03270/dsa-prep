@@ -12,6 +12,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yadavpramod03270/dsa-prep/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yadavpramod03270/dsa-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0162-find-peak-element) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yadavpramod03270/dsa-prep/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/yadavpramod03270/dsa-prep/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/0344-reverse-string) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0268-missing-number) |
