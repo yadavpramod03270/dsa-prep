@@ -40,6 +40,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yadavpramod03270/dsa-prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/yadavpramod03270/dsa-prep/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/yadavpramod03270/dsa-prep/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0229-majority-element-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yadavpramod03270/dsa-prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/yadavpramod03270/dsa-prep/tree/master/0013-roman-to-integer) |
 | [0316-remove-duplicate-letters](https://github.com/yadavpramod03270/dsa-prep/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/0344-reverse-string) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yadavpramod03270/dsa-prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yadavpramod03270/dsa-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
