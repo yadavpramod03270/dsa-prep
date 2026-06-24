@@ -11,6 +11,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0027-remove-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yadavpramod03270/dsa-prep/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/yadavpramod03270/dsa-prep/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yadavpramod03270/dsa-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0001-two-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yadavpramod03270/dsa-prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/yadavpramod03270/dsa-prep/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/yadavpramod03270/dsa-prep/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/yadavpramod03270/dsa-prep/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/yadavpramod03270/dsa-prep/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0229-majority-element-ii) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yadavpramod03270/dsa-prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/yadavpramod03270/dsa-prep/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/yadavpramod03270/dsa-prep/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/yadavpramod03270/dsa-prep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/yadavpramod03270/dsa-prep/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/yadavpramod03270/dsa-prep/tree/master/0316-remove-duplicate-letters) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yadavpramod03270/dsa-prep/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yadavpramod03270/dsa-prep/tree/master/0217-contains-duplicate) |
