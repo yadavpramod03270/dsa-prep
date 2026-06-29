@@ -22,7 +22,5 @@ void inorder(TreeNode* root){
     vector<int> inorderTraversal(TreeNode* root) {
          inorder(root);
          return v;
-
-        
     }
 };
