@@ -35,6 +35,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0792-binary-search](https://github.com/yadavpramod03270/dsa-prep/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/yadavpramod03270/dsa-prep/tree/master/0837-most-common-word) |
 | [0867-transpose-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/yadavpramod03270/dsa-prep/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/yadavpramod03270/dsa-prep/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/yadavpramod03270/dsa-prep/tree/master/1127-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/yadavpramod03270/dsa-prep/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/yadavpramod03270/dsa-prep/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Two Pointers
 |  |
