@@ -17,6 +17,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yadavpramod03270/dsa-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yadavpramod03270/dsa-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yadavpramod03270/dsa-prep/tree/master/0217-contains-duplicate) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0035-search-insert-position](https://github.com/yadavpramod03270/dsa-prep/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yadavpramod03270/dsa-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/yadavpramod03270/dsa-prep/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0088-merge-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/yadavpramod03270/dsa-prep/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yadavpramod03270/dsa-prep/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yadavpramod03270/dsa-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/yadavpramod03270/dsa-prep/tree/master/0349-intersection-of-two-arrays) |
