@@ -25,6 +25,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0229-majority-element-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/yadavpramod03270/dsa-prep/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/yadavpramod03270/dsa-prep/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yadavpramod03270/dsa-prep/tree/master/0349-intersection-of-two-arrays) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0125-valid-palindrome](https://github.com/yadavpramod03270/dsa-prep/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yadavpramod03270/dsa-prep/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yadavpramod03270/dsa-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/yadavpramod03270/dsa-prep/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/yadavpramod03270/dsa-prep/tree/master/0349-intersection-of-two-arrays) |
