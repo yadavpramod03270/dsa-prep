@@ -19,6 +19,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0136-single-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yadavpramod03270/dsa-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yadavpramod03270/dsa-prep/tree/master/0217-contains-duplicate) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0013-roman-to-integer](https://github.com/yadavpramod03270/dsa-prep/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/yadavpramod03270/dsa-prep/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/yadavpramod03270/dsa-prep/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yadavpramod03270/dsa-prep/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0229-majority-element-ii) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yadavpramod03270/dsa-prep/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | ------- |
 | [0049-group-anagrams](https://github.com/yadavpramod03270/dsa-prep/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yadavpramod03270/dsa-prep/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0229-majority-element-ii) |
@@ -288,6 +292,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yadavpramod03270/dsa-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yadavpramod03270/dsa-prep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yadavpramod03270/dsa-prep/tree/master/0347-top-k-frequent-elements) |
@@ -348,4 +353,8 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0287-find-the-duplicate-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
