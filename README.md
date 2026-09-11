@@ -15,6 +15,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0074-search-a-2d-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yadavpramod03270/dsa-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yadavpramod03270/dsa-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yadavpramod03270/dsa-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yadavpramod03270/dsa-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
