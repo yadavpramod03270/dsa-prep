@@ -4,15 +4,15 @@ public:
   
      unordered_map<int,int>mp;
      vector<int>v;
-      for(int i=0; i<nums.size(); i++){
+     for(int i=0; i<nums.size(); i++){
         int val=target-nums[i];
-        if(mp.find(val)!=mp.end()){
+        if(mp.contains(val)){
+            return {mp[val],i};
             v.push_back(mp[val]);
             v.push_back(i);
-            
         }
         mp[nums[i]]=i;
-      }
-      return v;
+     }
+     return v;
     }
 };
