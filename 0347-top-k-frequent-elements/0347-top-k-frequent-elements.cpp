@@ -20,8 +20,7 @@ public:
         }
 
         while(!minHeap.empty()){
-             std::pair<int, int> current = minHeap.top();
-            res.push_back(current.second);
+             res.push_back(minHeap.top().second);
             minHeap.pop();
         }
 
