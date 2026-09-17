@@ -36,6 +36,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0349-intersection-of-two-arrays](https://github.com/yadavpramod03270/dsa-prep/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yadavpramod03270/dsa-prep/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0540-single-element-in-a-sorted-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0349-intersection-of-two-arrays](https://github.com/yadavpramod03270/dsa-prep/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/yadavpramod03270/dsa-prep/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yadavpramod03270/dsa-prep/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/yadavpramod03270/dsa-prep/tree/master/0792-binary-search) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/yadavpramod03270/dsa-prep/tree/master/0316-remove-duplicate-letters) |
+| [0410-split-array-largest-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0410-split-array-largest-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -353,6 +356,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yadavpramod03270/dsa-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -362,6 +366,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0410-split-array-largest-sum) |
 ## Pigeonhole Principle
 |  |
 | ------- |
