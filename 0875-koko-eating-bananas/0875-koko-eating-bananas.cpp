@@ -1,27 +1,28 @@
 class Solution {
 public:
-    bool  caneat(const vector<int>& arr, int h, int k){
-         long long hours = 0;
-        for(auto pile: arr){
-        hours+=pile/k;
-         if (pile % k != 0) hours++;
-          if (hours > h) return false;
-        }
-         return hours <= h;
+  bool caneat(vector<int>& pile, int h, int k){
+    long long hour=0;
+    for(auto x:pile){
+        hour+=x/k;
+        if (x % k != 0) hour++;
+          if (hour > h) return false;
     }
+    return hour<=h;
+
+  }
     int minEatingSpeed(vector<int>& piles, int h) {
-       int lft=1;
-       int rgt= *max_element(piles.begin(), piles.end());
-       int ans=rgt;
-        while(lft<=rgt){
-            int mid=lft+(rgt-lft)/2;
+        int left=1;
+        int right=*max_element(piles.begin(), piles.end());
+        int ans=right;
+        while(left<=right){
+            int mid=left+(right-left)/2;
             if(caneat(piles,h,mid)){
-            ans=mid;
-            rgt=mid-1;
-        }else{
-            lft=mid+1;
-        }}
-return ans;
+             ans=mid;
+             right=mid-1;
+            }else{
+                left=mid+1;
+            }
         }
-    
+        return ans;
+    }    
 };
