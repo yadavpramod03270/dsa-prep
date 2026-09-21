@@ -47,6 +47,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0837-most-common-word](https://github.com/yadavpramod03270/dsa-prep/tree/master/0837-most-common-word) |
 | [0867-transpose-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/yadavpramod03270/dsa-prep/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yadavpramod03270/dsa-prep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/yadavpramod03270/dsa-prep/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/yadavpramod03270/dsa-prep/tree/master/1127-last-stone-weight) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0392-is-subsequence](https://github.com/yadavpramod03270/dsa-prep/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/yadavpramod03270/dsa-prep/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/yadavpramod03270/dsa-prep/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/yadavpramod03270/dsa-prep/tree/master/2128-reverse-prefix-of-word) |
 ## String
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/yadavpramod03270/dsa-prep/tree/master/0692-top-k-frequent-words) |
+| [0977-squares-of-a-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/yadavpramod03270/dsa-prep/tree/master/3731-find-missing-elements) |
