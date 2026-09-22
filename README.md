@@ -23,6 +23,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0162-find-peak-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yadavpramod03270/dsa-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0215-kth-largest-element-in-an-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0013-roman-to-integer](https://github.com/yadavpramod03270/dsa-prep/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/yadavpramod03270/dsa-prep/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/yadavpramod03270/dsa-prep/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/yadavpramod03270/dsa-prep/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/yadavpramod03270/dsa-prep/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/0344-reverse-string) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/yadavpramod03270/dsa-prep/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/yadavpramod03270/dsa-prep/tree/master/0881-boats-to-save-people) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0075-sort-colors](https://github.com/yadavpramod03270/dsa-prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yadavpramod03270/dsa-prep/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yadavpramod03270/dsa-prep/tree/master/0229-majority-element-ii) |
