@@ -14,6 +14,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yadavpramod03270/dsa-prep/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/yadavpramod03270/dsa-prep/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/yadavpramod03270/dsa-prep/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yadavpramod03270/dsa-prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0088-merge-sorted-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | ------- |
 | [0015-3sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/yadavpramod03270/dsa-prep/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/yadavpramod03270/dsa-prep/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yadavpramod03270/dsa-prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0169-majority-element) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/yadavpramod03270/dsa-prep/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yadavpramod03270/dsa-prep/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
