@@ -53,6 +53,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0977-squares-of-a-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yadavpramod03270/dsa-prep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/yadavpramod03270/dsa-prep/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/yadavpramod03270/dsa-prep/tree/master/1051-height-checker) |
 | [1127-last-stone-weight](https://github.com/yadavpramod03270/dsa-prep/tree/master/1127-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yadavpramod03270/dsa-prep/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0692-top-k-frequent-words](https://github.com/yadavpramod03270/dsa-prep/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/yadavpramod03270/dsa-prep/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/yadavpramod03270/dsa-prep/tree/master/1051-height-checker) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/yadavpramod03270/dsa-prep/tree/master/3731-find-missing-elements) |
@@ -413,8 +415,13 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yadavpramod03270/dsa-prep/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/yadavpramod03270/dsa-prep/tree/master/1051-height-checker) |
 ## Timsort
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/yadavpramod03270/dsa-prep/tree/master/0881-boats-to-save-people) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/yadavpramod03270/dsa-prep/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
