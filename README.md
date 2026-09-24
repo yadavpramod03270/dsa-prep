@@ -40,6 +40,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yadavpramod03270/dsa-prep/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/yadavpramod03270/dsa-prep/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0540-single-element-in-a-sorted-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0179-largest-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/yadavpramod03270/dsa-prep/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/yadavpramod03270/dsa-prep/tree/master/0435-non-overlapping-intervals) |
 | [0881-boats-to-save-people](https://github.com/yadavpramod03270/dsa-prep/tree/master/0881-boats-to-save-people) |
 ## Monotonic Stack
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0347-top-k-frequent-elements](https://github.com/yadavpramod03270/dsa-prep/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yadavpramod03270/dsa-prep/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yadavpramod03270/dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/yadavpramod03270/dsa-prep/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/yadavpramod03270/dsa-prep/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/yadavpramod03270/dsa-prep/tree/master/0881-boats-to-save-people) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yadavpramod03270/dsa-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/yadavpramod03270/dsa-prep/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/yadavpramod03270/dsa-prep/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
