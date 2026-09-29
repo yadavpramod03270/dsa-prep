@@ -68,6 +68,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/yadavpramod03270/dsa-prep/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/yadavpramod03270/dsa-prep/tree/master/1590-make-sum-divisible-by-p) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yadavpramod03270/dsa-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3731-find-missing-elements](https://github.com/yadavpramod03270/dsa-prep/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -97,6 +98,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0837-most-common-word](https://github.com/yadavpramod03270/dsa-prep/tree/master/0837-most-common-word) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yadavpramod03270/dsa-prep/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/yadavpramod03270/dsa-prep/tree/master/1590-make-sum-divisible-by-p) |
 | [1796-second-largest-digit-in-a-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yadavpramod03270/dsa-prep/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yadavpramod03270/dsa-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0523-continuous-subarray-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yadavpramod03270/dsa-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yadavpramod03270/dsa-prep/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/yadavpramod03270/dsa-prep/tree/master/1590-make-sum-divisible-by-p) |
 ## Pigeonhole Principle
 |  |
 | ------- |
