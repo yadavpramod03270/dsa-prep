@@ -46,6 +46,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0442-find-all-duplicates-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/yadavpramod03270/dsa-prep/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yadavpramod03270/dsa-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/yadavpramod03270/dsa-prep/tree/master/0643-maximum-average-subarray-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0438-find-all-anagrams-in-a-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yadavpramod03270/dsa-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/yadavpramod03270/dsa-prep/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/yadavpramod03270/dsa-prep/tree/master/0837-most-common-word) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0258-add-digits](https://github.com/yadavpramod03270/dsa-prep/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0523-continuous-subarray-sum) |
 | [2413-smallest-even-multiple](https://github.com/yadavpramod03270/dsa-prep/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/yadavpramod03270/dsa-prep/tree/master/2427-number-of-common-factors) |
 ## Number Theory
@@ -411,12 +414,14 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yadavpramod03270/dsa-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yadavpramod03270/dsa-prep/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Pigeonhole Principle
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0287-find-the-duplicate-number) |
+| [0523-continuous-subarray-sum](https://github.com/yadavpramod03270/dsa-prep/tree/master/0523-continuous-subarray-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
