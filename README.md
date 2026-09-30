@@ -22,6 +22,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yadavpramod03270/dsa-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yadavpramod03270/dsa-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yadavpramod03270/dsa-prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/yadavpramod03270/dsa-prep/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/yadavpramod03270/dsa-prep/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yadavpramod03270/dsa-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | [0094-binary-tree-inorder-traversal](https://github.com/yadavpramod03270/dsa-prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yadavpramod03270/dsa-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yadavpramod03270/dsa-prep/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yadavpramod03270/dsa-prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/yadavpramod03270/dsa-prep/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/yadavpramod03270/dsa-prep/tree/master/0316-remove-duplicate-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yadavpramod03270/dsa-prep/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yadavpramod03270/dsa-prep/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yadavpramod03270/dsa-prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/yadavpramod03270/dsa-prep/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/yadavpramod03270/dsa-prep/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0268-missing-number) |
