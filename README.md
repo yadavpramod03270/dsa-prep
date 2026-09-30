@@ -157,6 +157,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yadavpramod03270/dsa-prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/yadavpramod03270/dsa-prep/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/yadavpramod03270/dsa-prep/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/yadavpramod03270/dsa-prep/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/yadavpramod03270/dsa-prep/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/yadavpramod03270/dsa-prep/tree/master/0179-largest-number) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yadavpramod03270/dsa-prep/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/yadavpramod03270/dsa-prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yadavpramod03270/dsa-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yadavpramod03270/dsa-prep/tree/master/0145-binary-tree-postorder-traversal) |
@@ -456,4 +458,8 @@ A collection of LeetCode questions  - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/yadavpramod03270/dsa-prep/tree/master/1051-height-checker) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yadavpramod03270/dsa-prep/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
